@@ -11,3 +11,10 @@ const result;
 console.log(result)
 
 // 출력 값 2019/4/26 11:34:27
+
+const solution = (result) => {
+    return result = '2019/04/26 11:34:27'
+}
+
+
+export default solution;

@@ -5,4 +5,14 @@ const solution = (arr) => {
   return arr;
 };
 
+// const solution = (arr) => {
+//   arr[2] = 10000;
+//   arr[3] = 300;
+//   return arr;
+// };
+
+
+
+
+
 export default solution;

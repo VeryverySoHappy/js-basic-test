@@ -11,3 +11,7 @@ const result;
 console.log(result)
 
 // 출력 값 2019/4/26 11:34:27
+
+test("result value is [2019/04/26 11:34:27].", () => {
+    expect(solution(result)).toEqual("2019/04/26 11:34:27");
+});
